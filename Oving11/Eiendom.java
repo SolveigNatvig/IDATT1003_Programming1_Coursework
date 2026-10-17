@@ -1,4 +1,3 @@
-package IDATT1003_Programmering_1.Oving11;
 
 /*
  * Klassen Eiendom representerer en eiendom i et eiendomsregister.
